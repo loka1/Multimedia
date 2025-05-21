@@ -1,8 +1,9 @@
-# FAQ for C.A.I. and Computer Assisted Instruction
+# Summary of Computer-Assisted Instruction (CAI)
 
-1. **Essay**: Explain how C.A.I. enhances interactive learning.
-2. **True/False**: True or False: C.A.I. requires constant instructor supervision.
-3. **Multiple Choice**: What is a key advantage of C.A.I.?
-   - a) Reduces student engagement
-   - b) Provides personalized learning paths
-   - c) Increases classroom size
+**Key Types and Features:**  
+- **Tutorial**: Presents new concepts, reinforces learning through interactive methods, and adapts to individual progress.  
+- **Drill and Practice**: Focuses on skill development with immediate feedback, personalized training levels, and engaging multimedia elements.  
+- **Simulation**: Models real-world scenarios to explore complex systems and their interactions safely.  
+- **Instructional Games**: Combines learning with competitive gameplay, enhancing motivation and problem-solving skills.  
+
+CAI integrates technology into education, offering dynamic, personalized learning experiences that traditional methods cannot easily replicate.
