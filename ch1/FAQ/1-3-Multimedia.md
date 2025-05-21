@@ -17,7 +17,7 @@
 ## Advantages of Using Multimedia  
 | English | Arabic |
 |---------|--------|
-| 1. **Developing Innovative Thinking**: Fosters creativity through diverse presentation tools and engaging content. | 1. **تطوير التفكير المبتكر**:  الإبداع من خلال أدوات العرض المتنوعة والمحتوى الجذاب. |
+| 1. **Developing Innovative Thinking**: Fosters creativity through diverse presentation tools and engaging content. | 1. **تطوير التفكير المبتكر**:  يعزز الإبداع من خلال أدوات العرض التقديمي المتنوعة والمحتوى الجذاب. |
 | 2. **Creating Flexibility**: Allows dynamic information retrieval and adaptation to individual learning paces. | 2. **خلق المرونة**: يسمح باسترجاع المعلومات بشكل ديناميكي وتكيفها مع وتيرة التعلم الفردية. |
 | 3. **Facilitating Cognitive Development**: Enhances understanding and problem-solving skills through interactive elements. | 3. **تسهيل التنمية المعرفية**: يعزز الفهم ومهارات حل المشكلات من خلال العناصر التفاعلية. |
 | 4. **Transition to Graphics**: Enables movement from text/data to graphic representation, sound, and images. | 4. **الانتقال إلى الرسومات**: يُمكن الانتقال من النص/البيانات إلى التمثيل الرسومي، الصوت، والصور. |
