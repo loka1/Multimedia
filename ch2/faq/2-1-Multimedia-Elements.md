@@ -1,5 +1,3 @@
-# Multimedia Elements FAQ
-# أسئلة شائعة عن عناصر الوسائط المتعددة
 
 ## What are the main elements of multimedia?  
 ## ما هي العناصر الرئيسية للوسائط المتعددة؟

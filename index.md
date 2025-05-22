@@ -8,3 +8,4 @@
 | 1-2-2 | [1-2-2- Second: (C-M-I) Computer Managed Instruction](ch1/EN/1-2-2-Computer_Managed_Instruction.md) | [1-2-2- Second: (C-M-I) Computer Managed Instruction (AR)](ch1/AR/1-2-2-Computer_Managed_Instruction_AR.md) | [~~FAQ~~](ch1/FAQ/1-2-2-Computer_Managed_Instruction.md) |
 | 1-3 | [1-3- Multimedia](ch1/EN/1-3-Multimedia.md) | [1-3- Multimedia (AR)](ch1/AR/1-3-Multimedia_AR.md) | [FAQ](ch1/FAQ/1-3-Multimedia.md) |
 | 2-1 | [2.1 Multimedia Elements](ch2/en/2-1-Multimedia-Elements.md) | [2.1 العناصر المتعددة الوسائط](ch2/ar/2-1-Multimedia-Elements.md) | [FAQ](ch2/faq/2-1-Multimedia-Elements.md) |
+| 2-2 | [2.2 TEXT](ch2/en/2-2-text.md) | [2.2 النصوص المكتوبة](ch2/ar/2-2-text.md) | [FAQ](ch2/faq/2-2-text.md) |
