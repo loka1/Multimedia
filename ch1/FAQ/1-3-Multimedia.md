@@ -6,14 +6,6 @@
 |---------|--------|
 | Multimedia refers to the integration of various media types (text, images, audio, video, animations) through computer technology, enabling interactive and engaging presentation of information. It has evolved from simple educational tools to dynamic, interactive systems that enhance learning and communication. | يُشير مصطلح الوسائط المتعددة إلى دمج أنواع مختلفة من الوسائط (النصوص، الصور، الصوت، الفيديو، التحركات) من خلال تكنولوجيا الكمبيوتر، مما يُمكن من تقديم المعلومات بشكل تفاعلي وجذاب. تطور من أدوات تعليمية بسيطة إلى أنظمة تفاعلية دينامية تعزز التعلم والتواصل. |
 
-## Elements of Multimedia  
-| English | Arabic |
-|---------|--------|
-| - **Sound** (audio) | - **الصوت** (الصوتي) |
-| - **Text** | - **النص** |
-| - **Moving Images** (video/animations) | - **الصور المتحركة** (الفيديو/الرسوم المتحركة) |
-| - **Static Images** (graphics/pictures) | - **الصور الثابتة** (الرسومات/الصور) |
-
 ## Advantages of Using Multimedia  
 | English | Arabic |
 |---------|--------|
